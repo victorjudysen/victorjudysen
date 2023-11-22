@@ -4,7 +4,7 @@
 <hr>
 # Hello, World! 👋
 
-I'm [Your Name], a passionate and rising software engineer currently on a journey of mastering JavaScript. 🚀
+I'm Victor Kweka (Mekku), a passionate and rising software engineer currently on a journey to mastering JavaScript. 🚀
 
 ## About Me
 
@@ -21,12 +21,12 @@ I'm [Your Name], a passionate and rising software engineer currently on a journe
 
 Let's connect and grow together! Feel free to reach out:
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- 📧 Email: judysen.victor@gmail.com
+- 💼 LinkedIn: [Victor (Mekku) Kweka](https://www.linkedin.com/in/victor-judysen-kweka/)
+
 
 ## Fun Fact
 
-Did you know? I love [something interesting about you].
+Did you know? I love diving into the world of reading and exploring new ideas for execution.
 
 Looking forward to contributing and collaborating on exciting projects! 🌟
