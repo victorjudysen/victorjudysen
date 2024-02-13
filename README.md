@@ -18,16 +18,11 @@ I'm Victor Kweka (Mekku), a passionate and rising software engineer currently on
 - 💻 JavaScript | HTML | CSS
 - 🧠 Problem Solving | Data Structures | Algorithms
 
-## Connect with Me
+## Performance
 
-Let's connect and grow together! Feel free to reach out:
+[![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)
+
+## Connect with Me
 
 - 📧 Email: judysen.victor@gmail.com
 - 💼 LinkedIn: [Victor (Mekku) Kweka](https://www.linkedin.com/in/victor-judysen-kweka/)
-
-
-## Fun Fact
-
-Did you know? I love diving into the world of reading and exploring new ideas for execution.
-
-Looking forward to contributing and collaborating on exciting projects! 🌟
