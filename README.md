@@ -18,7 +18,7 @@
 
 ### 📫 Let's Connect :
 
-- 📧 Email: judysen.victor@gmail.com
+- 📧 Email: victorjkweka@hotmail.com
 - 💼 LinkedIn: [Victor (Mekku) Kweka](https://www.linkedin.com/in/victor-judysen-kweka/)
 
 <!-- ### 🧢 About Me :
