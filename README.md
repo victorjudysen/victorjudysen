@@ -11,14 +11,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<br><br>
 
 ### 🚧 Performance : 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)
-<br><br><br>
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorjudysen&show_icons=true&theme=radical)](https://github.com/victorjudysen/github-readme-stats)
+<br><br>
 
-<a align="right" class='Most-used-languages' href='https://github.com/victorjudysen'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=victorjudysen&layout=compact' />
+### 🚧 Stats : 
+<div align="left">
+  <a href='https://github.com/victorjudysen'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=victorjudysen&show_icons=true&theme=radical'/>
+</div>
+<br><br>
+<div>
+<a class='Most-used-languages' href='https://github.com/victorjudysen'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=victorjudysen&layout=compact' />
+</div>
 
 ### 📫 Let's Connect :
 
