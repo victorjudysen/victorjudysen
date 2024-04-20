@@ -15,6 +15,10 @@
 ### 🚧 Performance : 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)
+<br><br><br>
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorjudysen&show_icons=true&theme=radical)](https://github.com/victorjudysen/github-readme-stats)
+
+<a align="right" class='Most-used-languages' href='https://github.com/victorjudysen'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=victorjudysen&layout=compact' />
 
 ### 📫 Let's Connect :
 
