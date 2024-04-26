@@ -19,9 +19,7 @@
 <br><br>
 
 ### 🚧 Stats : 
-<div align="left">
-  <a href='https://github.com/victorjudysen'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=victorjudysen&show_icons=true&theme=radical'/>
-</div>
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorjudysen)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 <div>
 <a class='Most-used-languages' href='https://github.com/victorjudysen'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=victorjudysen&layout=compact' />
