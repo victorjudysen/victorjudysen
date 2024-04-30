@@ -18,13 +18,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)
 <br><br>
 
-### 🚧 Stats : 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorjudysen)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-<div>
-<a class='Most-used-languages' href='https://github.com/victorjudysen'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=victorjudysen&layout=compact' />
-</div>
-
 ### 📫 Let's Connect :
 
 - 📧 Email: victorjkweka@hotmail.com
