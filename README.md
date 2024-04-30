@@ -2,6 +2,11 @@
   <a href="https://app.daily.dev/victorjudysen"><img src="https://github.com/victorjudysen/victorjudysen/blob/main/devcard.svg" width="300" align="right" alt="Victor Judysen's Dev Card"/></a>
 </div>
 
+### 🚧 Performance : 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)
+<br><br>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -11,11 +16,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<br><br>
-
-### 🚧 Performance : 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)
 <br><br>
 
 ### 📫 Let's Connect :
