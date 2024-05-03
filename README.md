@@ -2,6 +2,9 @@
   <a href="https://app.daily.dev/victorjudysen"><img src="https://github.com/victorjudysen/victorjudysen/blob/main/devcard.svg" width="300" align="right" alt="Victor Judysen's Dev Card"/></a>
 </div>
 
+ ### 🧢 About Me :
+- 💡 This is Victor Kweka (Mekku), a passionate and rising software engineer building a legacy out of a hobby. 🚀
+
 ### 🚧 Performance : 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)
@@ -23,8 +26,6 @@
 - 📧 Email: victorjkweka@hotmail.com
 - 💼 LinkedIn: [Victor (Mekku) Kweka](https://www.linkedin.com/in/victor-judysen-kweka/)
 
- ### 🧢 About Me :
-- 💡 This is Victor Kweka (Mekku), a passionate and rising software engineer building a legacy out of hobby. 🚀
 <!--  
 - 🌱 I’m currently diving deep into the world of JavaScript and exploring its endless possibilities.
   
