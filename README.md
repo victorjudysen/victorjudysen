@@ -23,9 +23,9 @@
 - 📧 Email: victorjkweka@hotmail.com
 - 💼 LinkedIn: [Victor (Mekku) Kweka](https://www.linkedin.com/in/victor-judysen-kweka/)
 
-<!-- ### 🧢 About Me :
-- 💡 This is Victor Kweka (Mekku), a passionate and rising software engineer currently on a journey to mastering JavaScript. 🚀
-  
+ ### 🧢 About Me :
+- 💡 This is Victor Kweka (Mekku), a passionate and rising software engineer building a legacy out of hobby. 🚀
+<!--  
 - 🌱 I’m currently diving deep into the world of JavaScript and exploring its endless possibilities.
   
 - 🚀 As a rising software engineer, I'm committed to continuous learning and staying updated with the latest technologies.
