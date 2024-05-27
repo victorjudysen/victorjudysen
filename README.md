@@ -8,11 +8,12 @@
 ### 🚧 Performance : 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=victorjudysen&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=victorjudysen&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorjudysen&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorjudysen&theme=github_dark)<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=victorjudysen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-readme-stats.vercel.app/api?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorjudysen&theme=radical)<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=victorjudysen&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 <br><br>
 
 ### :hammer_and_wrench: Languages and Tools :
