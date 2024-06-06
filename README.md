@@ -1,9 +1,10 @@
 <div align="left">
   <a href="https://app.daily.dev/victorjudysen"><img src="https://github.com/victorjudysen/victorjudysen/blob/main/devcard.svg" width="300" align="right" alt="Victor Judysen's Dev Card"/></a>
 </div>
-
+<!--
  ### 🧢 About Me :
 - 💡 This is Victor Kweka (Mekku), a passionate and rising software engineer building a legacy out of a hobby. 🚀
+-->
 
 ### 🚧 Performance : 
 
