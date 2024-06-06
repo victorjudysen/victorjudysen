@@ -9,14 +9,22 @@
 ### 🚧 Performance : 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)
+<hr/>
 
 ![](https://github-readme-stats.vercel.app/api?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<hr/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorjudysen&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+<hr/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorjudysen&theme=radical)<br/>
+<hr/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victorjudysen&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<hr/>
 <br><br>
 
+<!--
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -33,7 +41,6 @@
 - 📧 Email: victorjkweka@hotmail.com
 - 💼 LinkedIn: [Victor (Mekku) Kweka](https://www.linkedin.com/in/victor-judysen-kweka/)
 
-<!--  
 - 🌱 I’m currently diving deep into the world of JavaScript and exploring its endless possibilities.
   
 - 🚀 As a rising software engineer, I'm committed to continuous learning and staying updated with the latest technologies.
