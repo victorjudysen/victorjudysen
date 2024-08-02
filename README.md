@@ -17,12 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 <hr/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorjudysen&theme=radical)<br/>
-<hr/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=victorjudysen&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-<hr/>
-<br><be>
 
 <!--
 ### :hammer_and_wrench: Languages and Tools :
