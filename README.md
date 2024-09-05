@@ -8,10 +8,10 @@
 <hr/>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<hr/> -->
+<hr/> 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
-<hr/>
+<hr/> -->
 
 
 <!--
