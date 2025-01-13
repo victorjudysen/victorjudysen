@@ -7,14 +7,14 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)
-
+<hr/>
 
 ![](https://github-readme-stats.vercel.app/api?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <hr/> 
-
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 <hr/>
-
+-->
 
 <!--
 ### :hammer_and_wrench: Languages and Tools :
