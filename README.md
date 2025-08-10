@@ -4,10 +4,6 @@
 </div>
 -->
 
-<div>
-  
-</div>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)
 
 <!--
