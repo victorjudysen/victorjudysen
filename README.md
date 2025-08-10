@@ -1,6 +1,8 @@
+<!--
 <div align="left">
   <a href="https://app.daily.dev/victorjudysen"><img src="https://github.com/victorjudysen/victorjudysen/blob/main/devcard.svg" width="300" align="right" alt="Victor Judysen's Dev Card"/></a>
 </div>
+-->
 
 <div>
   
