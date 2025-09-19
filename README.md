@@ -1,12 +1,10 @@
-<!--
+
 <div align="left">
   <a href="https://app.daily.dev/victorjudysen"><img src="https://github.com/victorjudysen/victorjudysen/blob/main/devcard.svg" width="300" align="right" alt="Victor Judysen's Dev Card"/></a>
 </div>
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)<br/>
 -->
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&card_width=481)](https://git.io/streak-stats)
-
 
 ![](https://github-readme-stats.vercel.app/api?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
