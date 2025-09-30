@@ -3,7 +3,7 @@
   <a href="https://app.daily.dev/victorjudysen"><img src="https://github.com/victorjudysen/victorjudysen/blob/main/devcard.svg" width="300" align="right" alt="Victor Judysen's Dev Card"/></a>
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=victorjudysen&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=victorjudysen&theme=java-dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
