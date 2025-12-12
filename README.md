@@ -1,6 +1,6 @@
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=victorjudysen&theme=microsoft-dark&mode=weekly" width="650" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=victorjudysen&theme=microsoft-dark&mode=weekly" width="450" alt="GitHub Streak" /></a>
 <hr>
-<a href="https://app.daily.dev/victorjudysen"><img src="https://api.daily.dev/devcards/v2/83WV6SidsMpmxOUbK0KfN.png?type=wide&r=vfl" width="650" alt="Victor J Kweka's Dev Card"/></a>
+<a href="https://app.daily.dev/victorjudysen"><img src="https://api.daily.dev/devcards/v2/83WV6SidsMpmxOUbK0KfN.png?type=wide&r=vfl" width="450" alt="Victor J Kweka's Dev Card"/></a>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
