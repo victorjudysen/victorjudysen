@@ -1,4 +1,4 @@
-<a href="https://git.io/streak-stats"><img src="[https://streak-stats.demolab.com?user=victorjudysen&theme=microsoft-dark&mode=daily](https://streak-stats.demolab.com?user=victorjudysen&theme=microsoft-dark&hide_border=true&card_width=500&card_height=190&type=json)" alt="GitHub Streak"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=victorjudysen&theme=calm&hide_border=true)](https://git.io/streak-stats)
 
 <hr>
 <a href="https://app.daily.dev/victorjudysen"><img src="https://api.daily.dev/devcards/v2/83WV6SidsMpmxOUbK0KfN.png?type=wide&r=vfl" width="600" alt="Victor J Kweka's Dev Card"/></a>
