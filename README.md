@@ -1,4 +1,4 @@
-<!--[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=victorjudysen&theme=javascript-dark&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=victorjudysen&theme=javascript-dark&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <a href="https://app.daily.dev/victorjudysen"><img src="https://api.daily.dev/devcards/v2/83WV6SidsMpmxOUbK0KfN.png?type=wide&r=vfl" width="955" alt="Victor J Kweka's Dev Card"/></a>
 <hr>
