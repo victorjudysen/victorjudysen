@@ -1,9 +1,9 @@
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=victorjudysen&theme=blue-green&card_width=950&card_height=320" alt="GitHub Streak" /></a> -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=victorjudysen&theme=blue-green" width="500" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=victorjudysen&theme=blue-green" width="600" alt="GitHub Streak" /></a>
 <hr>
-<a href="https://app.daily.dev/victorjudysen"><img src="https://api.daily.dev/devcards/v2/83WV6SidsMpmxOUbK0KfN.png?type=wide&r=vfl" width="500" alt="Victor J Kweka's Dev Card"/></a>
+<a href="https://app.daily.dev/victorjudysen"><img src="https://api.daily.dev/devcards/v2/83WV6SidsMpmxOUbK0KfN.png?type=wide&r=vfl" width="600" alt="Victor J Kweka's Dev Card"/></a>
 <hr>
-<a><img src="https://github-readme-activity-graph.vercel.app/graph?username=victorjudysen&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true"></a>
+<a><img src="https://github-readme-activity-graph.vercel.app/graph?username=victorjudysen&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true width=600"></a>
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=victorjudysen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 -->
