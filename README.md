@@ -1,3 +1,5 @@
+[![committers.top badge](https://user-badge.committers.top/tanzania_private/victorjudysen.svg)](https://user-badge.committers.top/tanzania_private/ictorjudysen)
+<br>
 <!-- <hr> -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=victorjudysen&theme=blue-green" width="1005" alt="GitHub Streak" /></a> -->
 <!-- <hr> -->
