@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/contributions.svg" alt="Victor's contribution graph for the last year" width="100%" />
+<!-- <img src="./assets/contributions.svg" alt="Victor's contribution graph for the last year" width="100%" /> -->
 
 <br />
 
