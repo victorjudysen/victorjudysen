@@ -91,7 +91,7 @@
   <g transform="translate(739.0,186)">
     <rect width="233.0" height="72" rx="6" fill="#0d1117" stroke="#30363d"/>
     <text x="14" y="20" font-size="11" fill="#7d8590">$ active days</text>
-    <text x="14" y="49" font-size="26" font-weight="700" fill="#e6edf3">359<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6">/ 365</tspan></text>
+    <text x="14" y="49" font-size="26" font-weight="700" fill="#e6edf3">359<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6">/ 366</tspan></text>
     <text x="14" y="64" font-size="9.5" fill="#7d8590">98% of the year</text>
   </g>
 

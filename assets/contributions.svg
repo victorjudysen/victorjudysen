@@ -386,6 +386,7 @@
   <rect x="868" y="176" width="13" height="13" rx="2.5" fill="#26a641"><title>91 on Oct 30</title></rect>
   <rect x="868" y="192" width="13" height="13" rx="2.5" fill="#006d32"><title>62 on Oct 31</title></rect>
   <rect x="884" y="96" width="13" height="13" rx="2.5" fill="#006d32"><title>82 on Nov 1</title></rect>
+  <rect x="884" y="112" width="13" height="13" rx="2.5" fill="#161b22"><title>0 on Nov 2</title></rect>
   <text x="22" y="122" font-size="10" fill="#7d8590">Mon</text>
   <text x="22" y="154" font-size="10" fill="#7d8590">Wed</text>
   <text x="22" y="186" font-size="10" fill="#7d8590">Fri</text>
