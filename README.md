@@ -1,4 +1,4 @@
-v<div align="center">
+<div align="center">
 
 <!-- <img src="./assets/contributions.svg" alt="Victor's contribution graph for the last year" width="100%" /> -->
 
