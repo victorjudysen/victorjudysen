@@ -70,28 +70,28 @@
   <g transform="translate(496,104)">
     <rect width="233.0" height="72" rx="6" fill="#0d1117" stroke="#30363d"/>
     <text x="14" y="20" font-size="11" fill="#7d8590">$ current streak</text>
-    <text x="14" y="49" font-size="26" font-weight="700" fill="#3fb950">215<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6">days</tspan></text>
-    <text x="14" y="64" font-size="9.5" fill="#7d8590">Apr 4 – Nov 4</text>
+    <text x="14" y="49" font-size="26" font-weight="700" fill="#3fb950">216<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6">days</tspan></text>
+    <text x="14" y="64" font-size="9.5" fill="#7d8590">Apr 4 – Nov 5</text>
   </g>
 
   <g transform="translate(739.0,104)">
     <rect width="233.0" height="72" rx="6" fill="#0d1117" stroke="#30363d"/>
     <text x="14" y="20" font-size="11" fill="#7d8590">$ longest streak</text>
-    <text x="14" y="49" font-size="26" font-weight="700" fill="#e6edf3">215<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6">days</tspan></text>
-    <text x="14" y="64" font-size="9.5" fill="#7d8590">Apr 4 – Nov 4</text>
+    <text x="14" y="49" font-size="26" font-weight="700" fill="#e6edf3">216<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6">days</tspan></text>
+    <text x="14" y="64" font-size="9.5" fill="#7d8590">Apr 4 – Nov 5</text>
   </g>
 
   <g transform="translate(496,186)">
     <rect width="233.0" height="72" rx="6" fill="#0d1117" stroke="#30363d"/>
     <text x="14" y="20" font-size="11" fill="#7d8590">$ contributions</text>
-    <text x="14" y="49" font-size="26" font-weight="700" fill="#e6edf3">9,205<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6"></tspan></text>
+    <text x="14" y="49" font-size="26" font-weight="700" fill="#e6edf3">9,214<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6"></tspan></text>
     <text x="14" y="64" font-size="9.5" fill="#7d8590">in the last year</text>
   </g>
 
   <g transform="translate(739.0,186)">
     <rect width="233.0" height="72" rx="6" fill="#0d1117" stroke="#30363d"/>
     <text x="14" y="20" font-size="11" fill="#7d8590">$ active days</text>
-    <text x="14" y="49" font-size="26" font-weight="700" fill="#e6edf3">362<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6">/ 369</tspan></text>
+    <text x="14" y="49" font-size="26" font-weight="700" fill="#e6edf3">363<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6">/ 370</tspan></text>
     <text x="14" y="64" font-size="9.5" fill="#7d8590">98% of the year</text>
   </g>
 
@@ -120,6 +120,6 @@
 <rect x="319.4" y="55.4" width="23.9" height="140.6" rx="2" fill="#2ea043"/><text x="331.3" y="50.4" text-anchor="middle" font-size="9.5" font-weight="700" fill="#e6edf3">1,936</text><text x="331.3" y="211.0" text-anchor="middle" font-size="9.5" fill="#7d8590">Aug</text>
 <rect x="356.7" y="50.0" width="23.9" height="146.0" rx="2" fill="#2ea043"/><text x="368.7" y="45.0" text-anchor="middle" font-size="9.5" font-weight="700" fill="#e6edf3">2,011</text><text x="368.7" y="211.0" text-anchor="middle" font-size="9.5" fill="#7d8590">Sep</text>
 <rect x="394.1" y="68.7" width="23.9" height="127.3" rx="2" fill="#2ea043"/><text x="406.0" y="63.7" text-anchor="middle" font-size="9.5" font-weight="700" fill="#e6edf3">1,754</text><text x="406.0" y="211.0" text-anchor="middle" font-size="9.5" fill="#7d8590">Oct</text>
-<rect x="431.4" y="173.1" width="23.9" height="22.9" rx="2" fill="#56d364"/><text x="443.3" y="168.1" text-anchor="middle" font-size="9.5" font-weight="700" fill="#e6edf3">315</text><text x="443.3" y="211.0" text-anchor="middle" font-size="9.5" fill="#7d8590">Nov</text>
+<rect x="431.4" y="172.5" width="23.9" height="23.5" rx="2" fill="#56d364"/><text x="443.3" y="167.5" text-anchor="middle" font-size="9.5" font-weight="700" fill="#e6edf3">324</text><text x="443.3" y="211.0" text-anchor="middle" font-size="9.5" fill="#7d8590">Nov</text>
   </g>
 </svg>
