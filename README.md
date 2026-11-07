@@ -2,9 +2,9 @@
 
 <!-- <img src="./assets/contributions.svg" alt="Victor's contribution graph for the last year" width="100%" /> -->
 
-<br />
+<!-- <br />
 <img src="./assets/whoami.svg" alt="ASCII portrait of Victor with streak and activity stats" width="100%" />
-<br /><br />
+<br /><br /> -->
 
 
 [![committers.top badge](https://user-badge.committers.top/tanzania_private/victorjudysen.svg)](https://user-badge.committers.top/tanzania_private/victorjudysen)
