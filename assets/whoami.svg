@@ -70,8 +70,8 @@
   <g transform="translate(496,104)">
     <rect width="233.0" height="72" rx="6" fill="#0d1117" stroke="#30363d"/>
     <text x="14" y="20" font-size="11" fill="#7d8590">$ current streak</text>
-    <text x="14" y="49" font-size="26" font-weight="700" fill="#3fb950">216<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6">days</tspan></text>
-    <text x="14" y="64" font-size="9.5" fill="#7d8590">Apr 4 – Nov 5</text>
+    <text x="14" y="49" font-size="26" font-weight="700" fill="#3fb950">0<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6">days</tspan></text>
+    <text x="14" y="64" font-size="9.5" fill="#7d8590">start one today</text>
   </g>
 
   <g transform="translate(739.0,104)">
@@ -91,7 +91,7 @@
   <g transform="translate(739.0,186)">
     <rect width="233.0" height="72" rx="6" fill="#0d1117" stroke="#30363d"/>
     <text x="14" y="20" font-size="11" fill="#7d8590">$ active days</text>
-    <text x="14" y="49" font-size="26" font-weight="700" fill="#e6edf3">363<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6">/ 370</tspan></text>
+    <text x="14" y="49" font-size="26" font-weight="700" fill="#e6edf3">363<tspan font-size="12" font-weight="400" fill="#7d8590" dx="6">/ 371</tspan></text>
     <text x="14" y="64" font-size="9.5" fill="#7d8590">98% of the year</text>
   </g>
 
